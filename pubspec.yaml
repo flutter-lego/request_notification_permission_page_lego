@@ -1,7 +1,7 @@
 name: request_notification_permission_page_lego
-description: "lego is all you need"
+description: "beautify the request notification permission page"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/request_notification_permission_page_lego
 
 version: 1.0.0
 
